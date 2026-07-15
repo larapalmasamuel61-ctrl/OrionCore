@@ -1,1 +1,20 @@
-__pycache__
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de VS Code
+.vscode/
+
+# Base de datos o archivos temporales si aplica
+*.db
+*.log
+
+
+visioncore_config.json
